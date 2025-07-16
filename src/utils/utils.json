@@ -1,0 +1,331 @@
+{
+    "id": "u983b2f1",
+    "name": "Fernanda Ribeiro",
+    "email": "fernanda.ribeiro@gmail.com",
+    "username": "fernanda.r",
+    "role": "manager",
+    "status": "active",
+    "avatar": "/user-2.png",
+    "createdAt": "2024-11-21T14:23:00Z",
+    "lastLogin": "2025-07-15T09:47:00Z",
+    "phone": "+351 987654321",
+    "location": "Covilha , Portugal",
+    "salary": 15200.00,
+    "monthlyExpenses": 8300.50,
+    "husband": {
+        "name": "Rodrigo Ribeiro",
+        "age": 39,
+        "occupation": "Arquiteto"
+    },
+    "children": [
+        {
+            "name": "Lucas Ribeiro",
+            "age": 10,
+            "school": "Colégio Alfa"
+        },
+        {
+            "name": "Clara Ribeiro",
+            "age": 7,
+            "school": "Colégio Alfa"
+        }
+    ],
+    "purchasedProducts": [
+        {
+            "id": "p001",
+            "name": "Notebook Dell XPS 13",
+            "category": "Eletrônicos",
+            "priceEUR": 1299.99,
+            "purchaseDate": "2025-04-22",
+            "image": "https://media.istockphoto.com/id/1594087385/pt/foto/mockup-blank-screen-laptop-computer-with-winterscape-through-the-window.webp?a=1&b=1&s=612x612&w=0&k=20&c=Il5U6fe1LRJTMd_bILpFX4fa--H8_YC-PqHkC9HUn04="
+        },
+        {
+            "id": "p002",
+            "name": "Cadeira Ergonômica",
+            "category": "Escritório",
+            "priceEUR": 249.90,
+            "purchaseDate": "2025-05-05",
+            "image": "https://images.unsplash.com/photo-1688578735427-994ecdea3ea4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FkZWlyYSUyMGVyZ29ub21pY2F8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "p003",
+            "name": "Smartphone Samsung Galaxy S23",
+            "category": "Eletrônicos",
+            "priceEUR": 999.00,
+            "purchaseDate": "2025-03-18",
+            "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHNtYXJ0Zm9uZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "p004",
+            "name": "Curso de Liderança Online",
+            "category": "Educação",
+            "priceEUR": 150.00,
+            "purchaseDate": "2025-06-01",
+            "image": "https://media.istockphoto.com/id/469253826/pt/foto/diversidade-semin%C3%A1rio-de-neg%C3%B3cios-pessoas-lideran%C3%A7a-conceito-de-gest%C3%A3o.webp?a=1&b=1&s=612x612&w=0&k=20&c=1wgWFx9DFSKBnJ2oVb5Ew9zWgcZyDlidX5uVAIKHiYQ="
+        },
+        {
+            "id": "p005",
+            "name": "Tênis de Corrida Nike Air Zoom",
+            "category": "Esportes",
+            "priceEUR": 120.00,
+            "purchaseDate": "2025-02-10",
+            "image": "https://images.unsplash.com/photo-1588361861040-ac9b1018f6d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmlrZSUyMHRlbmlzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "p006",
+            "name": "Relógio Garmin Venu",
+            "category": "Tecnologia",
+            "priceEUR": 349.99,
+            "image": "https://images.unsplash.com/photo-1691921673576-07c6032e6306?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2F0Y2glMjBnYXJtaW58ZW58MHx8MHx8fDA%3D",
+            "purchaseDate": "2025-01-15"
+        },
+        {
+            "id": "p007",
+            "name": "Mochila Antifurto Samsonite",
+            "category": "Acessórios",
+            "priceEUR": 89.90,
+            "image": "https://media.istockphoto.com/id/1297321000/pt/foto/sporty-cross-sling-hand-carry-adventure-overnight-bag.webp?a=1&b=1&s=612x612&w=0&k=20&c=kcBd9WUrOyl1PcW4zoCRhW-ryTfCzC45RtPZHcwhPW4=",
+            "purchaseDate": "2025-03-02"
+        },
+        {
+            "id": "p008",
+            "name": "Assinatura Anual Adobe Creative Cloud",
+            "category": "Software",
+            "priceEUR": 635.00,
+            "purchaseDate": "2024-12-30",
+            "image": "https://images.unsplash.com/photo-1637519291387-993d7df504f6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWRvYmUlMjBjbG91ZHxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "p009",
+            "name": "Impressora HP DeskJet Ink Advantage",
+            "category": "Eletrônicos",
+            "priceEUR": 199.00,
+            "image": "https://images.unsplash.com/photo-1625961332771-3f40b0e2bdcf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHByaW50ZXJ8ZW58MHx8MHx8fDA%3D",
+            "purchaseDate": "2025-05-20"
+        },
+        {
+            "id": "p010",
+            "name": "Cafeteira Nespresso Vertuo",
+            "category": "Casa",
+            "priceEUR": 159.99,
+            "purchaseDate": "2025-06-15",
+            "image": "https://images.unsplash.com/photo-1565452344518-47faca79dc69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2FmZXRlaXJhJTIwdmVydHVvfGVufDB8fDB8fHww"
+        }
+    ],
+    "wishlist": [
+        {
+            "id": "w001",
+            "name": "Tablet iPad Air",
+            "category": "Eletrônicos",
+            "estimatedPriceEUR": 799.00,
+            "image": "https://images.unsplash.com/photo-1604399852419-f67ee7d5f2ef?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHRhYmxldHxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "w002",
+            "name": "Fone de Ouvido Bose QuietComfort",
+            "category": "Acessórios",
+            "image": "https://plus.unsplash.com/premium_photo-1678099940967-73fe30680949?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGhvbmVzJTIwZGUlMjBvdXZpZG98ZW58MHx8MHx8fDA%3D",
+            "estimatedPriceEUR": 329.99
+        },
+        {
+            "id": "w003",
+            "name": "Bicicleta Elétrica",
+            "category": "Transporte",
+            "estimatedPriceEUR": 1450.00,
+            "image": "https://images.unsplash.com/photo-1624243519828-52a0f2c88af3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmljaWNsZXRhJTIwZWxlY3RyaWNhfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "w004",
+            "name": "Kindle Paperwhite",
+            "category": "Tecnologia",
+            "estimatedPriceEUR": 149.99,
+            "image": "https://images.unsplash.com/photo-1640023151365-e4212c93742c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGtpbmRsZSUyMHBhcGVyd2hpdGV8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "w005",
+            "name": "Aspirador Robô Xiaomi",
+            "category": "Casa",
+            "estimatedPriceEUR": 275.00,
+            "image": "https://media.istockphoto.com/id/1132712880/pt/foto/robotic-vacuum-cleaner-on-laminate-wood-floor-in-living-room.webp?a=1&b=1&s=612x612&w=0&k=20&c=cM1ZBqK9FxtWBGAdG4jUgSApcHH5KQstVx0N9pVth2A="
+        },
+        {
+            "id": "w006",
+            "name": "Curso de Inglês Avançado Online",
+            "category": "Educação",
+            "estimatedPriceEUR": 199.00,
+            "image": "https://images.unsplash.com/photo-1543109740-4bdb38fda756?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW5nbGlzaCUyMGNvdXJzZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "w007",
+            "name": "Jaqueta The North Face",
+            "category": "Moda",
+            "estimatedPriceEUR": 180.00,
+            "image": "https://plus.unsplash.com/premium_photo-1674719144570-0728faf14f96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amFja2V0fGVufDB8fDB8fHww"
+        },
+        {
+            "id": "w008",
+            "name": "Passagem para Lisboa (ida e volta)",
+            "category": "Viagem",
+            "estimatedPriceEUR": 580.00,
+            "image": "https://plus.unsplash.com/premium_photo-1718191345961-a404d2a8f18e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGlzYm9uJTIwdGlrZXR8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "w009",
+            "name": "Monitor LG UltraWide 29\"",
+            "category": "Tecnologia",
+            "estimatedPriceEUR": 279.90,
+            "image": "https://images.unsplash.com/photo-1637946811752-4835a353847d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9uaXRvciUyMDI5JTIyfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "w010",
+            "name": "Smartwatch Apple Watch SE",
+            "category": "Eletrônicos",
+            "estimatedPriceEUR": 299.00,
+            "image": "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c21hcnR3YXRjaCUyMGFwcGxlfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "w011",
+            "name": "Tênis Adidas Ultraboost",
+            "category": "Esportes",
+            "estimatedPriceEUR": 139.90,
+            "image": "https://images.unsplash.com/photo-1653151539215-21d501088389?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGFkaWRhcyUyMHVsdHJhYm9vc3RlcnxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "w012",
+            "name": "Echo Show 8 (Alexa)",
+            "category": "Casa Inteligente",
+            "estimatedPriceEUR": 129.99,
+            "image": "https://images.unsplash.com/photo-1667543241882-962c812ff19e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFsZXhhfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "w013",
+            "name": "Mala de Viagem Samsonite",
+            "category": "Viagem",
+            "estimatedPriceEUR": 219.00,
+            "image": "https://plus.unsplash.com/premium_photo-1678983328923-625885fd40e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWFsYSUyMHNhbXNvbml0b3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "w014",
+            "name": "Curso de Gestão de Projetos",
+            "category": "Educação",
+            "estimatedPriceEUR": 180.00,
+            "image": "https://media.istockphoto.com/id/2173915109/pt/foto/skill-competency-development-concept-up-new-ability-skill-training-for-technology-evolution.webp?a=1&b=1&s=612x612&w=0&k=20&c=86S5fUcH5RbKj923Z6VhOY_zm6HpiviYf_yPFQO0Gb8="
+        },
+        {
+            "id": "w015",
+            "name": "Assinatura Spotify Premium Anual",
+            "category": "Serviços",
+            "estimatedPriceEUR": 99.00,
+            "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3BvdGlmeXxlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ],
+    "permissions": {
+        "projects": "read_write",
+        "users": "read_only",
+        "settings": "none",
+        "finance": "read_write"
+    },
+    "notes": "Usuária dedicada, em treinamento para liderança regional.",
+    "tags": [
+        "leadership",
+        "training",
+        "hight potential"
+    ],
+    "total": {
+        "spent": 4252.77,
+        "wishlist": 5309.77
+    },
+    "educationHistory": [
+        {
+            "institution": "Universidade de Lisboa",
+            "degree": "Licenciatura em Gestão",
+            "field": "Gestão de Empresas",
+            "startYear": 2007,
+            "endYear": 2010,
+            "location": "Lisboa, Portugal",
+            "certificateURL": "https://universidade.pt/certificados/fernanda-gestao.pdf"
+        },
+        {
+            "institution": "Universidade Católica Portuguesa",
+            "degree": "Mestrado em Gestão Estratégica",
+            "field": "Gestão",
+            "startYear": 2011,
+            "endYear": 2013,
+            "location": "Lisboa, Portugal",
+            "certificateURL": "https://catolica.pt/certificados/fernanda-mestrado.pdf"
+        },
+        {
+            "institution": "Nova School of Business and Economics",
+            "degree": "Pós-graduação em Liderança e Inovação",
+            "field": "Liderança",
+            "startYear": 2018,
+            "endYear": 2019,
+            "location": "Carcavelos, Portugal",
+            "certificateURL": "https://novasbe.pt/certificados/fernanda-lideranca.pdf"
+        },
+        {
+            "institution": "Udemy",
+            "degree": "Curso de Excel Avançado para Negócios",
+            "field": "Tecnologia e Ferramentas",
+            "startYear": 2023,
+            "endYear": 2023,
+            "location": "Online",
+            "certificateURL": "https://udemy.com/cert/fernanda-excel-avancado"
+        },
+        {
+            "institution": "LinkedIn Learning",
+            "degree": "Curso de Gestão de Equipas Remotas",
+            "field": "Gestão de Pessoas",
+            "startYear": 2024,
+            "endYear": 2024,
+            "location": "Online",
+            "certificateURL": "https://linkedin.com/cert/fernanda-gestao-remota"
+        }
+    ],
+    "workExperience": [
+        {
+            "company": "SONAE",
+            "position": "Assistente de Gestão",
+            "location": "Porto, Portugal",
+            "startDate": "2011-10",
+            "endDate": "2014-06",
+            "description": "Prestava suporte à equipa de planeamento estratégico, contribuindo para a análise de mercado, preparação de relatórios de desempenho e apoio na gestão operacional de unidades comerciais.",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sonae_logo.svg/2560px-Sonae_logo.svg.png"
+        },
+        {
+            "company": "Jerónimo Martins",
+            "position": "Gestora de Projetos Júnior",
+            "location": "Lisboa, Portugal",
+            "startDate": "2014-07",
+            "endDate": "2017-08",
+            "description": "Responsável por projetos de melhoria contínua e eficiência operacional na cadeia de abastecimento. Implementou processos Lean e colaborou com equipas multifuncionais.",
+            "logo": "https://upload.wikimedia.org/wikipedia/pt/1/13/Jer%C3%B3nimo_Martins_logo.png"
+        },
+        {
+            "company": "EDP - Energias de Portugal",
+            "position": "Gestora de Operações",
+            "location": "Lisboa, Portugal",
+            "startDate": "2017-09",
+            "endDate": "2021-03",
+            "description": "Geriu operações em ambiente de energia e sustentabilidade. Otimizou processos, liderou equipas e introduziu indicadores de performance (KPIs) para controle de qualidade e produtividade.",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/EDP_logo.svg"
+        },
+        {
+            "company": "Farfetch",
+            "position": "Project Manager Sénior",
+            "location": "Guimarães, Portugal",
+            "startDate": "2021-04",
+            "endDate": "2024-05",
+            "description": "Coordenou iniciativas digitais e de transformação organizacional, com foco em tecnologia e inovação. Trabalhou diretamente com stakeholders internacionais e liderou equipas ágeis.",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Farfetch_Logo_Black.svg"
+        },
+        {
+            "company": "Grupo NORS",
+            "position": "Head of Operations",
+            "location": "Porto, Portugal",
+            "startDate": "2024-06",
+            "endDate": null,
+            "description": "Responsável por liderar operações em mercados internacionais, promovendo eficiência e expansão. Coordena equipas multidisciplinares e atua diretamente com o board estratégico.",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/NORS_Logo.png"
+        }
+    ]
+}
